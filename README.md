@@ -9,12 +9,12 @@ IDE used: Eclipse
 
 ## Getting Started
 
-To run the above application, clone the [repository](https://github.com/PrajwalaTM/Real-time-Chat-App.git) or download the zip file. 
+To run the above application, clone the [repository](https://github.com/Gurupradeep/Spark-chat.git) or download the zip file. 
 
 Download Eclipse from the [official page](https://eclipse.org/downloads/packages/), and ensure that the Eclipse version you downloaded supports Maven. 
 
-Run the application as a Maven Test Project and then, run the [java file](https://github.com/PrajwalaTM/Real-time-Chat-App/blob/master/chat/src/main/java/chat/Chat.java) as a thread.
+Run the application as a Maven Test Project and then, run the [java file](https://github.com/Gurupradeep/Spark-chat/blob/master/chat/src/main/java/chat/Chat.java) as a thread.
 
-Go to localhost:4567 in a couple of different browser windows and text yourself :P.
+Go to localhost:4567 in a couple of different browser windows and you can text yourself
 
-A sample output can be seen [here](https://github.com/PrajwalaTM/Real-time-Chat-App/blob/master/chat.png).
+A sample output can be seen [here](https://github.com/Gurupradeep/Spark-chat/blob/master/chat.png.).
